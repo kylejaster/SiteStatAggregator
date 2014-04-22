@@ -3,8 +3,6 @@
 
 // Make a request to the AWIS UrlInfo operation to get information about a given url
 
-define("ACCESS_KEY_ID", "AKIAJRANUM7WSH75N47A");
-define("SECRET_ACCESS_KEY", "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");
 define("SERVICE_ENDPOINT", "http://awis.amazonaws.com?");
 
 define("ACTION", "UrlInfo");
